@@ -1,0 +1,113 @@
+.top-packages-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.top-packages-section-desc {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 40px;
+  width: 930px;
+  text-align: center;
+  color: #6e6e6e;
+  margin: 18px 0 38px 0;
+}
+
+.top-packages-section-list {
+  display: flex;
+  justify-content: space-evenly;
+  width: 85%;
+  max-width: 1300px;
+  padding-left: 0;
+  list-style-type: none;
+  margin: 0;
+}
+
+.top-packages-section-item {
+  background-color: #ffffff;
+  padding: 40px 20px;
+  width: 353px;
+  height: 339px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.top-packages-section-item-title {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 40px;
+  color: #2f2f2f;
+  margin: 0 0 18px 0;
+}
+
+.tps-item-rating-div {
+  display: flex;
+
+  align-items: center;
+  margin-bottom: 9px;
+}
+
+.tps-item-rating-text {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  color: #2f2f2f;
+  margin: 0 4px 0 0;
+}
+
+.tps-item-rating-count {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  color: #6e6e6e;
+  margin: 0 0 0 5px;
+}
+
+.tps-item-tests-text {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 40px;
+  color: #2f2f2f;
+  margin: 0 0 5px 0;
+}
+
+.tps-item-test-amount {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  color: #6e6e6e;
+}
+
+.tps-item-test-amount-cross {
+  font-size: 20px;
+  text-decoration: line-through;
+}
+
+.tps-item-test-amount-offer {
+  font-size: 20px;
+  color: #2f2f2f;
+}
+
+.tps-item-button-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tps-item-button {
+  height: 43px;
+  width: 264px;
+  border: none;
+  border-radius: 6px;
+  background-color: #008dd9;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 20px;
+}

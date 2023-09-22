@@ -1,0 +1,41 @@
+.footer-section {
+  height: 810px;
+  padding: 81px 24px 119px 24px;
+  background-color: #1f1f1f;
+}
+
+.footer-top-section {
+  display: flex;
+}
+
+.footer-top-logo-div {
+  width: 470px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.footer-top-logo-text {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  color: #ffffff;
+  margin: 32px 0 71px 0;
+}
+
+.footer-phone-div {
+  background-color: #575757;
+  display: flex;
+  height: 88px;
+  width: 470px;
+}
+
+.footer-phone-no-div {
+  flex-grow: 1;
+  display: flex;
+}
+
+.footer-phone-no-country-code {
+  border-right: 1px solid #ffffff;
+}

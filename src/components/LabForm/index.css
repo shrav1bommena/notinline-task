@@ -1,0 +1,158 @@
+.lab-form-background {
+  padding: 45px 5% 0 5%;
+  background-color: transparent;
+
+  /* background-image: url('https://res.cloudinary.com/dzduqsp2x/image/upload/v1695192900/Rectangle-1-lab-tests_dgrxw1.png'); */
+  background-size: cover;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.lab-form {
+  height: 420px;
+  width: 470px;
+  background-color: #ffffff;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+  border-radius: 34px;
+  padding: 26px 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.lab-form-title {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 500;
+  color: #2f2f2f;
+  margin: 0;
+  margin-left: 57px;
+}
+
+.lab-form-input-div {
+  display: flex;
+  align-items: center;
+  margin-top: 25px;
+}
+
+.lab-form-input-check-div {
+  margin-top: 12px;
+}
+
+.lab-form-text-input {
+  width: 299px;
+  height: 47px;
+  border: none;
+  border-radius: 5px;
+  background-color: #e3e3e3;
+  padding: 8px 40px;
+  margin-left: 10px;
+}
+
+.lab-form-input-checkbox {
+  height: 22px;
+  width: 22px;
+  margin-left: 16px;
+  margin-right: 12px;
+}
+
+.lab-form-policy-text {
+  color: #2f2f2f;
+  font-size: 11px;
+  line-height: 25px;
+  margin: 0;
+}
+
+.lab-form-submit-div {
+  display: flex;
+  justify-content: center;
+  margin-top: 18px;
+}
+
+.lab-form-submit-button {
+  border: none;
+  border-radius: 6px;
+  height: 42px;
+  width: 236px;
+  background-color: #138ed1;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  line-height: 25px;
+  font-weight: 500;
+}
+
+.discount-div {
+  font-family: 'Inter', sans-serif;
+  border-radius: 35px;
+  background-color: #00a6ff;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  height: 70px;
+  width: 608px;
+  margin-top: 18px;
+}
+
+.discount-amount-div {
+  border-radius: 35px;
+  background-color: #00486c;
+  height: 70px;
+  width: 470px;
+  display: flex;
+  align-items: center;
+}
+
+.discount-amount-text {
+  width: 100%;
+  text-align: center;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 24px;
+  margin: 0;
+}
+
+.discount-amount-text-cross {
+  font-weight: 600;
+  text-decoration: line-through;
+}
+
+.discount-amount-percentage {
+  color: #ffffff;
+  width: 140px;
+  font-size: 24px;
+  margin: 0;
+  font-weight: 600;
+  text-align: center;
+}
+
+.best-in-class-image {
+  height: 125%;
+}
+
+.nabl-and-free-sample-div {
+  display: flex;
+  justify-content: center;
+  margin-top: -60px;
+}
+
+.nabl-and-free-sample-inner-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nabl-and-free-sample-text {
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  margin: 0 20px;
+}
+
+.nabl-text {
+  color: #333333;
+}
+
+.free-sample-text {
+  color: #2f2f2f;
+}

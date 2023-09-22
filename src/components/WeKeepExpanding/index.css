@@ -1,0 +1,34 @@
+.we-keep-expanding-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 38px;
+  margin-bottom: 60px;
+}
+
+.we-keep-exapnding-text-div {
+  margin-bottom: 97px;
+}
+
+.centers-collection-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.centers-collection-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #138ed1;
+  color: #ffffff;
+  border-radius: 16px;
+  padding: 10px 50px;
+  margin-right: 84px;
+}

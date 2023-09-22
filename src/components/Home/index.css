@@ -1,0 +1,7 @@
+.home-bg {
+  min-height: 100vh;
+  background: url('https://res.cloudinary.com/dzduqsp2x/image/upload/v1695203256/notinline-BG_cxu7tu.png')
+    no-repeat top center;
+
+  background-size: 100% auto;
+}
